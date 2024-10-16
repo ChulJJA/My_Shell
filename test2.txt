@@ -1,0 +1,7 @@
+cat test1.txt
+ls *.txt
+echo "Hello, World!" > textTemp.txt
+ls textTemp.txt
+which ls
+ls *.txt | wc -l
+exit

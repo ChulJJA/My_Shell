@@ -1,0 +1,8 @@
+cd subdir
+echo hello
+cd subsubdir
+pwd
+cd directory_that_does_not_exist
+cd ../..
+pwd
+exit
